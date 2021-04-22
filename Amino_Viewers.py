@@ -1,4 +1,4 @@
-from __pycache__ import Amino
+import Amino
 import os
 import time
 client=Amino.Amino()
