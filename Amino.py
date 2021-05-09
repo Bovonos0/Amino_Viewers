@@ -46,7 +46,7 @@ class Amino:
         {
         "ndcId":comId,
         "threadId":chatId,
-        "joinRole": 1,
+        "joinRole": 2,
         "id":2154531
         },
         "t":112
